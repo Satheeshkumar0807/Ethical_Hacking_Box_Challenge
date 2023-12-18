@@ -1,0 +1,4 @@
+I and my friends have done a CTF challenge based Box machine of 16 flags.
+As the size of the ova file is too large, Iam sharing the Drive Link of the box with the report of how to find the flags too.
+
+-- https://drive.google.com/drive/folders/1w_wlT_6J9lmG_dqbYkLomPoOLuG0B-ou?usp=drive_link
